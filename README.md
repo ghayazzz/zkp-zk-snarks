@@ -54,6 +54,21 @@ Users connect via Web3-enabled browser and:
 - Submit precomputed proof and public input.
 - View live results.
 
+# 🖼️ Demo Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0163fb40-60a2-4354-8c75-8a456f3966d7" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/477b1ee6-de6a-449c-aedc-ecafba9e2db2" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Casting a Vote</b></td>
+    <td align="center"><b>Double Voting Blocked</b></td>
+  </tr>
+</table>
+
+
+
 ---
 
 ## 🚀 Running the Project
