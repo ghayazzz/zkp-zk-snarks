@@ -105,12 +105,8 @@ Open `zkp-voting-ui/index.html` in a Web3-enabled browser like MetaMask + Brave/
 
 ---
 
-## 🧠 Authors
-
-- Mohammed Ghayasuddin  
-- Syed Abdul Samad Ahmed Ali  
-- Joshua Wiggins  
-- Thirunavukarasu MV  
+## 🧠 Author
+Mohammed Ghayasuddin  
 CS6413 – Foundations of Privacy, University of New Brunswick
 
 ---
